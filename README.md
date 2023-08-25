@@ -140,3 +140,7 @@ uddoktapay.loadPaymentForm(API_KEY, FULL_NAME, EMAIL, enteredAmount, CHECKOUT_UR
 ```
 
 Feel free to replace `AppCompatActivity` with the appropriate class if necessary. Also, make sure you have the required imports for the classes and libraries used in the code.
+
+
+## Authors
+- [Ali Ajgor](https://github.com/help5g)
