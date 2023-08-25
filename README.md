@@ -1,0 +1,2 @@
+# UddoktaPayAndroidSDK
+UddoktaPay Android SDK
