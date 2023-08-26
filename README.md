@@ -31,8 +31,6 @@ Add the following code inside your `AppCompatActivity`:
 
 ```java
 // Constants for payment
-private static final String FULL_NAME = "John Doe";
-private static final String EMAIL = "test@gmail.com";
 private static final String API_KEY = "982d381360a69d419689740d9f2e26ce36fb7a50";    
 private static final String CHECKOUT_URL = "https://sandbox.uddoktapay.com/api/checkout-v2";
 private static final String VERIFY_PAYMENT_URL = "https://sandbox.uddoktapay.com/api/verify-payment";
