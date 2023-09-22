@@ -142,3 +142,6 @@ Feel free to replace `AppCompatActivity` with the appropriate class if necessary
 
 ## Authors
 - [Ali Ajgor](https://facebook.com/aliajgor123)
+
+## Video Tutorial  
+- [YouTube](https://youtu.be/X6rgCZuY_9g?si=xZ2JrTi3PvEDJSQh)
